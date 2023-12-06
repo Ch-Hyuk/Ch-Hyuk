@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20Ch_Hyuk's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-
-✉️kwakchanhyuk@naver.com
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=🌱Developer%20who%20dreams%20of%20becoming%20an%20artificial%20intelligence%20engineer&animation=cylinder&fontSize=20&fontAlignY=50&fontAlign=50&height=180&stroke=00FF00&strokeWidth=1&desc=✉Email:%20chanhyuk0104@gmail.com&descSize=20&descAlignY=80&descAlign=30)
 
 ## 🎏Project
+
 ### 🌟 [Polar Star](https://github.com/KDT-AiVENGERS/PolarStar_Info) 🌟
  - Recommend job descriptions and lectures suitable for users Based on user input
  - Responsible for data preprocessing and data algorithm creation
 
 
 ### 🎒 [My.CL](https://github.com/Ch-Hyuk/My.CL) 🎒
+
  - Recommend appropriate lectures to students based on user input
  - Responsible for data preprocessing and recommendation algorithm creation
 
@@ -26,8 +27,14 @@
 
 ## 📌Experiences
 
-- Programmers AI Dev-Course Completion
-  2023.03 ~ 2023.08
+### Programmers AI Dev-Course Completion
+  - 2023.03 ~ 2023.08
+  - Learned artificial intelligence knowledge and project experience
+  - 🏆 Won the grand prize for the final project
+
+### 2023 5th KDT-HACKATHON
+  - 2023.10.06 ~ 2023.11.28
+  - 🏆 Won the grand prize
 <!--
 **Ch-Hyuk/Ch-Hyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🎇✉️📌✔️🌱💻
