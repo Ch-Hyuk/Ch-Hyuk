@@ -16,7 +16,7 @@
 ### 🔥5th KDT-Hackathon🔥
  - Object detection using YOLO and 3d point cloud
  - Detects babies entering dangerous areas or objects and alerts them to dangerous situations
- - 
+   
 ## 🔆Main Stack  
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
@@ -38,7 +38,7 @@
 
 ### 2023 5th KDT-HACKATHON
   - 2023.10.06 ~ 2023.11.28
-  - 🏆 Won the grand prize
+  - 🏆 Won the grand prize(Minister of Employment and Labor Award)
 <!--
 **Ch-Hyuk/Ch-Hyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🎇✉️📌✔️🌱💻 --!>
