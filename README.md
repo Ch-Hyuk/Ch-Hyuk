@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20Ch_Hyuk's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=🌱Developer%20who%20dreams%20of%20becoming%20an%20artificial%20intelligence%20engineer&animation=cylinder&fontSize=20&fontAlignY=50&fontAlign=50&height=180&stroke=00FF00&strokeWidth=1&desc=✉Email:%20chanhyuk0104@gmail.com&descSize=20&descAlignY=80&descAlign=30)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20to%20Ch_Hyuk's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&stroke=000000&height=180)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=🌱Developer%20who%20dreams%20of%20becoming%20an%20artificial%20intelligence%20engineer&animation=cylinder&fontSize=20&fontAlignY=50&fontAlign=50&height=180&stroke=000000&strokeWidth=1&desc=✉Email:%20chanhyuk0104@gmail.com&descSize=20&descAlignY=80&descAlign=30)
 
 ## 🎏Project
 
