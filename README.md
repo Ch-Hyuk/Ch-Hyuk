@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=🌱Developer%20who%20dreams%20of%20becoming%20an%20artificial%20intelligence%20engineer&animation=cylinder&fontSize=20&fontAlignY=50&fontAlign=50&height=180&stroke=000000&strokeWidth=1)
 
 ## ✉Contact
- - chanhyuk0104@gmail
+ - chanhyuk0104@gmail.com
  - kwakchanhyuk@naver.com
    
 ## 🎏Project
